@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TravisFlanagan
+- 👀 I’m interested in ... Web development & mobile app development!
+- 🌱 I’m currently learning ... JavaScript, HTML / CSS , Swift, Python!
+- 💞️ I’m looking to collaborate on ... HTML5 and JavaScript projects!
